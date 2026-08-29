@@ -1,0 +1,9 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/lzq49775-lgtm/doubao-mcp-metadata@main/client-metadata.json",
+  "client_name": "Doubao MCP Client",
+  "client_uri": "https://mcp.undermind.ai",
+  "redirect_uris": ["http://127.0.0.1:8765/callback", "http://localhost:8765/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
